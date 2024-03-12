@@ -7,6 +7,7 @@
     "amdocs": "git config --global user.name sarangia && git config --global user.email sarangia@amdocs.com && npm run show",
     "show": "git config --global user.name && git config --global user.email",
     "personal": "git config --global user.name Ashu && git config --global user.email ashutoshsarangi95@gmail.com && npm run show",
+    "bhupi": "git config --global user.name Bhupi && git config --global user.email bhupendra.d.patel.92+dabadu@gmail.com && npm run show",
     "a": "npm run amdocs",
     "p": "npm run personal",
     "s": "npm run show"
