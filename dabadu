@@ -6,7 +6,8 @@ password:- Bhupendrap@123
 feature/add-new-columns-for-master-calendar-and-checkin-changes
 
 
-npm run uat
+npm run vite-uat
+npm run vite-prod
 
 git config user.name "Bhupendra Patel"
 git config user.email "bhupendra.d.patel.92+dabadu@gmail.com"
